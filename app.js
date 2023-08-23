@@ -107,7 +107,7 @@ function gameReset (winner) {
 }
 
 // paper.addEventListener("click" , function (event) { playMatch(playerSelection(event) , getComputerChoice())} )
-// scissors.addEventListener("click" , function (event) { playMatch(playerSelection(event) , getComputerChoice())} )
+// scissors.addEventListener("click" , function (event) { playMatch(playerSelection(event) , getComputerChoice())})
 
 
 
